@@ -1,0 +1,11 @@
+{
+  "description": "Fictional transport operator; arbitrary teaching parameters, not EcoSim rules",
+  "initial_cash": 200,
+  "minimum_cash": 20,
+  "initial_electric": 0,
+  "total_vehicles": 4,
+  "periods": 3,
+  "demand": [26, 29, 32],
+  "fares": [4, 5],
+  "conversions": [0, 1, 2]
+}
